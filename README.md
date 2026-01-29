@@ -1,6 +1,3 @@
-<h1 align="left">Hello, I'm Anastasia Rusinova 👋</h1>
-
-<h3 align="left">A developer focusing on full-stack web</h3>
 
 <p align="left">
 💻 A web dev enthusiast with a passion for <b>React.js</b><br/>
@@ -84,8 +81,6 @@ My path to automated testing was driven by a wide range of interesting tasks rel
 
 
 ## Connect with Me
-- TG: [Anna Borzdun](https://t.me/borzdunanna)
-- Mail: borzdunanna@gmail.com
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avbmfff)](https://github.com/ryo-ma/github-profile-trophy)
+- TG: [Anastatya Rusinova](https://t.me/vino_tki)
+- Mail: rusinovanastasya@gmail.com
 
