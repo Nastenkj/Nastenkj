@@ -52,39 +52,21 @@
 
 ## 💼 Work Experience
 
-### 🎓 Universe Data / Junior QA Auto | JULE 2024 - PRESENT
-- 🌟 Writing autotests on Java, TestNG + Playwright
-- 🌟 Fixing bugs on existing test cases, tracking down dropped tests on Jenkins in the Allure report
-- 🌟 Reviewing works and conducting code reviews
-- 🌟 Simplify manual test scenarios for automation
-- 🌟 Revision of autotests, taking into account updates in the product
-- 🌟 Conducting regression testing
+### 🎓 University "LETI" / Junior Frontend development | February 2025 - November 2025
+- 🌟 WDevelopment of a web application for university access and control.
+- 🌟 Conducted interviews and meetings with the customer, clarified business requirements
+- 🌟 Created use cases, usage scenarios, prototypes, and interface layouts
+- 🌟 Collected and formalized product requirements
+- 🌟 Analyzed business processes, described "AS IS" and "TO BE" models
+- 🌟 Modeled business processes in BPMN
+- 🌟 Searched for specialists in the roles of backend/frontend developers, conducted technical interviews
+- 🌟 Conducted calls with customers, coordinated requirements and plans
+- 🌟 Organized the team's work and managed tasks in Jira
+- 🌟 Prepared reports on the work done
+- 🌟 Developed interfaces using JavaScript/TypeScript, the Vue.js framework, and HTML/CSS
+- 🌟 Participated in the design of frontend application architecture
+- 🌟 Optimized and debugged the UI to enhance user experience
 
-### 🎓 Sirius Kuzbass / Machine Learning Instructor | July 2025 – Present
-- 🌟 Designed an introductory machine learning curriculum for beginner students  
-- 🌟 Developed practical notebooks covering core topics: linear regression, gradient descent, KNN, data preprocessing, and neural networks  
-- 🌟 Created interactive projects: lemonade flavor prediction, digit recognition using neural networks  
-- 🌟 Implemented custom exercises and visualizations to explain how algorithms work  
-- 🌟 Conducted code reviews, evaluated student submissions, and provided personalized feedback  
-- 🌟 Explained key ML concepts such as overfitting, cross-validation, supervised vs. unsupervised learning
-
-### 🏦 CBR (Bank of Russia) / Intern QA Auto | FEBRUARY 2024 - JULE 2024
-- 🌟 Writing automated tests in Java using Selenide and JUnit 5
-- 🌟 Writing database queries for PostgreSQL using Hibernate
-- 🌟 Refactoring test cases
-- 🌟 Debugging existing test cases
-- 🌟 Developing a file comparison service using JavaScript, HTML, and CSS
-- 🌟 Testing APIs using Postman
-
-### 🎓 Sirius Kuzbass / Python Instructor | AUGUST 2023
-- 🌟 Writing a Python learning program
-- 🌟 Creating machine learning tasks
-- 🌟 Reviewing works and conducting code reviews
-
-### 🎓 ITMO University / Teaching assistant | SEMPTEMBER 2022 - JUNE 2023
-- 🌟 Reviweing student's code
-- 🌟 Explaining Algorithms and Data Structures & Discrete Mathematics
-- 🌟 Checking homework
 
 ## 👩‍💻 About Me 
 I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
