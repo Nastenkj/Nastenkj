@@ -1,20 +1,3 @@
-
-<p align="left">
-💻 A web dev enthusiast with a passion for <b>React.js</b><br/>
-💡 Passionate about bringing ideas to life. Explore all of my projects!
-</p>
-
----
-
-## Connect with me
-
-<a href="mailto:rusinovanastasya@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rusinovanastasya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
----
-
-
 # 👋 Hi there, 
 ## I'm Anastasya Rusinov
 
