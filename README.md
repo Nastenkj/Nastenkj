@@ -46,9 +46,9 @@
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nastenkj&theme=solarized_dark)
 
 ## 📚 Additional Education and Courses
-- **Itentika**: QA Short Course, June-July 2023
-- **Yandex SHAD**: Python for Developers, September-December 2023
-- **SheCodes**: Developing an app for taxi, November 2023
+- **Yandex**: Frontend development, July 2025
+- **T-bank**: QA Backend, January-February 2026
+- **JavaRush**: Java Backend, November 2025 - November 2026
 
 ## 💼 Work Experience
 
