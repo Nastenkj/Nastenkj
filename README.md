@@ -35,9 +35,14 @@
 
 
 ## 👩‍💻 About Me 
-I am a passionate developer with a keen interest in software quality assurance (AQA) in Java. I am not afraid to take on new tasks and always strive to find optimal solutions for them. I am constantly developing in the field of information technology, taking part in hackathons and seminars. In my work, I appreciate the consistency of actions and the clear formulation of technical tasks. I am open to learning and always ready to improve my professional level.
+I am a motivated **Software Engineering student** with a strong interest in **Java and frontend development**.  
+I enjoy building interactive applications and games, working with algorithms, data structures, and application state management.
 
-My path to automated testing was driven by a wide range of interesting tasks related to optimizing manual testing, as well as technological areas such as Java/Kotlin, Python, TypeScript, TestNG, Playwright, and Selenide. I am currently developing my knowledge of C# and C++. In addition, I am attracted to the field of DevOps, and now I am actively studying Docker, CI/CD, Jenkins and Kubernetes technologies.
+I have hands-on experience developing **web applications and games** using **Java, TypeScript, and React**, including projects with drag-and-drop functionality, real-time updates via WebSockets, and automated testing with **Jest and Cypress**.  
+I pay close attention to code quality, edge cases, and user scenarios, and I enjoy debugging and improving existing solutions.
+
+Currently, I am focused on deepening my knowledge of **modern frontend technologies**, improving my problem-solving skills, and growing as a software engineer through practical projects and continuous learning.
+
 
 ![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
