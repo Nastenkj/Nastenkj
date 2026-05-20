@@ -38,7 +38,7 @@
 I am a motivated **Software Engineering student** with a strong interest in **Java and frontend development**.  
 I enjoy building interactive applications and games, working with algorithms, data structures, and application state management.
 
-I have hands-on experience developing **web applications and games** using **Java, TypeScript, and React**, including projects with drag-and-drop functionality, real-time updates via WebSockets, and automated testing with **Jest and Cypress**.  
+I have hands-on experience developing **web applications and games** using **Java, TypeScript, and React**, including projects with drag-and-drop functionality, real-time updates via WebSockets, and automated testing with **JUnit**.  
 I pay close attention to code quality, edge cases, and user scenarios, and I enjoy debugging and improving existing solutions.
 
 Currently, I am focused on deepening my knowledge of **modern frontend technologies**, improving my problem-solving skills, and growing as a software engineer through practical projects and continuous learning.
